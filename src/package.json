@@ -1,0 +1,19 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "Node JS Lamda ",
+  "main": "index.js",
+  "scripts": {
+    "test": "testLamda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnsleek/node-lambda.git"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learnsleek/node-lambda/issues"
+  },
+  "homepage": "https://github.com/learnsleek/node-lambda#readme"
+}
