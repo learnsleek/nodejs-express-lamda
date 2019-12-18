@@ -10,7 +10,7 @@ Resources:
       Runtime: nodejs8.10
       FunctionName : nodejs-express-sample
       CodeUri: .
-      MemorySize: 128
+      MemorySize: 1024
       Policies: AWSLambdaBasicExecutionRole
       Timeout: 60
       Events:
