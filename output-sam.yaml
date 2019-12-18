@@ -8,7 +8,7 @@ Resources:
       Handler: lamda.handler
       Runtime: nodejs8.10
       FunctionName: nodejs-express-sample
-      CodeUri: s3://spring-boot-amit1/73e077a00a38546ce242b5fab87b3258
+      CodeUri: s3://spring-boot-amit1/99a191efdf0b40afb76da66f662653bb
       MemorySize: 128
       Policies: AWSLambdaBasicExecutionRole
       Timeout: 60
